@@ -1,8 +1,15 @@
-
+import Chai from "./chai"
 function App() {
+  const username = "hehjegrhwge"
 
   return (
-    <h1>HIIIIIII | AAyushma Kafle</h1>
+    
+    <div>
+      <Chai/>
+      <h1>hihihihi {username}</h1>
+      <p>ggftyryt</p>
+    </div>
+    
   )
 }
 
